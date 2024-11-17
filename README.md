@@ -17,7 +17,7 @@ Senare under veckan kommer vi att dyka in i namngivningskonventionen BEM, och un
 ## Resurser
 
 ### Presentationer
-* [18 nov, Tillgänglighet på webben]
+* [18 nov, Tillgänglighet på webben](https://docs.google.com/presentation/d/1zMcBNJdkG6_VlMgg_S8kIs-4x6Z27YAm/edit?usp=drive_link&ouid=117251319654116712560&rtpof=true&sd=true)
 
 ### Inspelade föreläsningar
 
@@ -45,7 +45,7 @@ Senare under veckan kommer vi att dyka in i namngivningskonventionen BEM, och un
 
 
 ### Övningar
-* [Workshop - veckans Code Review-uppgift](https://github.com/fu-html-css-fe24/exercise-accessibility-workshop/tree/main)
+* [Workshop - examinerande](https://github.com/fu-html-css-fe24/exercise-accessibility-workshop/tree/main)
 
 
 
