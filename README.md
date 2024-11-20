@@ -24,10 +24,11 @@ Senare under veckan kommer vi att dyka in i namngivningskonventionen BEM, och un
 * [18 nov, Tillgänglighet del 1](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/EV5gPUGyLRVDsg0oMHDxoKcBoo3Q7UxvFHqh0XWBD-RK0w?e=3tWOBf)
 * [18 nov, Tillgänglighet del 2](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/ERQP0cRkP6dAjBVghwm4b_YBCrvTbmtB01FtK7SifBO4Ew?e=DYY9bz)
 * [20 nov, BEM del 1](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/EWhUyKjtWsZGtGgrd2r5pTwBK5B1OykTTYpZmg9-CM9r5A?e=eDp2Gz)
+* [20 nov, BEM del 2](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/EWX3Q04S7fZErBM8GivFFVEBVuWUrgYrnBvRvGBqb202yA?e=BygbOQ)
 
 
 ### Lektionsrepon
-
+* [20 nov, BEM](https://github.com/fu-html-css-fe24/lecture-20-nov-BEM)
 
 ### Filmer
 * [You suck at accessibility (but you dont have to)](https://www.youtube.com/watch?v=1A6SrPwmGpg)
