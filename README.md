@@ -22,7 +22,8 @@ Senare under veckan kommer vi att dyka in i namngivningskonventionen BEM, och un
 
 ### Inspelade föreläsningar
 * [18 nov, Tillgänglighet del 1](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/EV5gPUGyLRVDsg0oMHDxoKcBoo3Q7UxvFHqh0XWBD-RK0w?e=3tWOBf)
-* [18nov, Tillgänglighet del 2](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/ERQP0cRkP6dAjBVghwm4b_YBCrvTbmtB01FtK7SifBO4Ew?e=DYY9bz)
+* [18 nov, Tillgänglighet del 2](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/ERQP0cRkP6dAjBVghwm4b_YBCrvTbmtB01FtK7SifBO4Ew?e=DYY9bz)
+* [20 nov, BEM del 1](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/EWhUyKjtWsZGtGgrd2r5pTwBK5B1OykTTYpZmg9-CM9r5A?e=eDp2Gz)
 
 
 ### Lektionsrepon
